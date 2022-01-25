@@ -173,7 +173,7 @@
             "goodsCategoryId": 101594,
             "goodsNum": 1,
             "payMode": 1,
-            "regionId": 9,
+            "regionId": 5,
             "goodsDetail": {
                 "productCode": "p_lighthouse",
                 "subProductCode": "sp_lighthouse_bundle_linux_sml1_1t",
@@ -196,13 +196,13 @@
                     },
                     {
                         "name": "地域",
-                        "value": "新加坡"
+                        "value": "香港"
                     }
                 ],
                 "resourceId": "【lhins-xxxxxx这种格式的，是你的实例名，请修改，新购请移除此行】",
                 "autoRenewFlag": 0,
                 "timeUnit": "d",
-                "timeSpan": 140
+                "timeSpan": 填282天和827天抵扣
             }
         }
     ]
